@@ -1,0 +1,30 @@
+{
+  "name": "worse-promise-resolve",
+  "version": "1.0.0",
+  "description": "Promise.resolve for WorsePromises",
+  "keywords": [
+    "10x'ly",
+    "worse-promise",
+    "schrodinger+",
+    "WorsePromise"
+  ],
+  "homepage": "https://github.com/worse-promise/worse-promise-resolve#readme",
+  "bugs": {
+    "url": "https://github.com/worse-promise/worse-promise-resolve/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worse-promise/worse-promise-resolve.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "is-a-promise": "^0.1.0",
+    "worse-promise": "^1.0.2"
+  }
+}
