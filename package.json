@@ -1,6 +1,6 @@
 {
   "name": "worse-promise-resolve",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Promise.resolve for WorsePromises",
   "keywords": [
     "10x'ly",
@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "is-a-promise": "^0.1.0",
-    "worse-promise": "1.0.2"
+    "worse-promise": "^1.0.2"
   }
 }
